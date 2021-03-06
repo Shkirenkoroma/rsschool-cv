@@ -38,7 +38,7 @@ align-items: center;
 aside{
 
 
-    background: url('../MyFirstPhoto.jpg') #fff no-repeat;
+    background: url('MyFirstPhoto.jpg') #fff no-repeat;
     position: absolute;
     width: 249px;
     height: 657px;
